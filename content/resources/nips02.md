@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-997-decision-making-in-large-scale-systems-spring-2004/5d3fe9c6ecb4c38bdb26906053d71bec_nips02.pdf
+file: /media/courses/2-997-decision-making-in-large-scale-systems-spring-2004/5d3fe9c6ecb4c38bdb26906053d71bec_nips02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: nips02.pdf
 uid: 5d3fe9c6-ecb4-c38b-db26-906053d71bec

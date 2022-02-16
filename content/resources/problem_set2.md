@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-997-decision-making-in-large-scale-systems-spring-2004/c98e793cdafac79926c33f8c472344ab_problem_set2.pdf
+file: /media/courses/2-997-decision-making-in-large-scale-systems-spring-2004/c98e793cdafac79926c33f8c472344ab_problem_set2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: problem_set2.pdf
 uid: c98e793c-dafa-c799-26c3-3f8c472344ab

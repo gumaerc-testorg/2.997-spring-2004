@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: A sample student project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-997-decision-making-in-large-scale-systems-spring-2004/cfd5864505f1a8ad5eb0b7d19dbd50f6_most_uhan_paper.pdf
+file: /media/courses/2-997-decision-making-in-large-scale-systems-spring-2004/cfd5864505f1a8ad5eb0b7d19dbd50f6_most_uhan_paper.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: most_uhan_paper.pdf
 uid: cfd58645-05f1-a8ad-5eb0-b7d19dbd50f6

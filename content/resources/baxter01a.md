@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-997-decision-making-in-large-scale-systems-spring-2004/2769fd7a5460945081f8af628e6c220c_baxter01a.pdf
+file: /media/courses/2-997-decision-making-in-large-scale-systems-spring-2004/2769fd7a5460945081f8af628e6c220c_baxter01a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: baxter01a.pdf
 uid: 2769fd7a-5460-9450-81f8-af628e6c220c

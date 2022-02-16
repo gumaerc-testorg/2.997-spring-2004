@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-997-decision-making-in-large-scale-systems-spring-2004/6d5055a1fea875bede9074a21af13adb_existence.pdf
+file: /media/courses/2-997-decision-making-in-large-scale-systems-spring-2004/6d5055a1fea875bede9074a21af13adb_existence.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: existence.pdf
 uid: 6d5055a1-fea8-75be-de90-74a21af13adb

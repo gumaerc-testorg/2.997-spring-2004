@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-997-decision-making-in-large-scale-systems-spring-2004/d7bb254ad8918f014fbabd6b140dd157_sol_prob_set1.pdf
+file: /media/courses/2-997-decision-making-in-large-scale-systems-spring-2004/d7bb254ad8918f014fbabd6b140dd157_sol_prob_set1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: sol_prob_set1.pdf
 uid: d7bb254a-d891-8f01-4fba-bd6b140dd157
