@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2a6e386d-d2d6-45de-3e3f-5ecb931d52e4
 resourcetype: Document
 title: most_uhan_paper.pdf
 uid: cfd58645-05f1-a8ad-5eb0-b7d19dbd50f6

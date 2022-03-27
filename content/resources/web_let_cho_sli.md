@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2a6e386d-d2d6-45de-3e3f-5ecb931d52e4
 resourcetype: Document
 title: web_let_cho_sli.pdf
 uid: 2ce0f53e-1d5a-5b3f-99c7-f170ae5361dc

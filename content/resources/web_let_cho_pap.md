@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2a6e386d-d2d6-45de-3e3f-5ecb931d52e4
 resourcetype: Document
 title: web_let_cho_pap.pdf
 uid: 902e0878-051d-1394-5975-6a168fdf4d9a

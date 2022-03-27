@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6897a3ff-dccb-36d9-9430-7f489f653321
 resourcetype: Document
 title: td_policy_eval.pdf
 uid: 04bdc9d8-4b9d-6ed5-8fad-b9ac5d7ee81d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6897a3ff-dccb-36d9-9430-7f489f653321
 resourcetype: Document
 title: vi.pdf
 uid: 6c2856b2-6fa0-3c73-3089-deca7830dcc8

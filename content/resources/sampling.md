@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6897a3ff-dccb-36d9-9430-7f489f653321
 resourcetype: Document
 title: sampling.pdf
 uid: bff8f943-9113-ed9f-0208-46fa0be14797

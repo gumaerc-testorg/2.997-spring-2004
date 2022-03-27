@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6897a3ff-dccb-36d9-9430-7f489f653321
 resourcetype: Document
 title: baxter01b.pdf
 uid: 1d0bbfb9-6c88-4828-c39f-5cea5c16daf8

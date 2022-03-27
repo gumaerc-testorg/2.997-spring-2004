@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2a6e386d-d2d6-45de-3e3f-5ecb931d52e4
 resourcetype: Document
 title: hari_decent_mov.pdf
 uid: b85c0c66-79de-e98a-33e5-30380e92d612

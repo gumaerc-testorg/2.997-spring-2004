@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6bc0b50-9924-c934-2ded-17773916d77c
 resourcetype: Document
 title: sol_prob_set1.pdf
 uid: d7bb254a-d891-8f01-4fba-bd6b140dd157

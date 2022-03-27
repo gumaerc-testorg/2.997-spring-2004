@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2a6e386d-d2d6-45de-3e3f-5ecb931d52e4
 resourcetype: Document
 title: most_uhan_slides.pdf
 uid: 13866634-7f68-1dfe-07a4-4ff769fbc6a6
