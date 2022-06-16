@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -45,7 +46,7 @@ Bertsekas, Dimitri P. _Dynamic Programming and Optimal Control_. 2 vols. Belmon
 
 Bertsekas, Dimitri P., and John N. Tsitsiklis. _Neuro-Dynamic Programming_. Belmont, MA: Athena Scientific, 1996. ISBN: 9781886529106.
 
-Individual Papers are also used for many class sessions, as listed in the [readings]({{< baseurl >}}/pages/readings) section.
+Individual Papers are also used for many class sessions, as listed in the {{% resource_link 6897a3ff-dccb-36d9-9430-7f489f653321 "readings" %}} section.
 
 Grading Policy
 --------------

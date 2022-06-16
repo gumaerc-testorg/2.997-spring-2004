@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -35,7 +36,7 @@ Finite-Horizon Problems: Backwards Induction
 Discounted-Cost Problems: Cost-to-Go Function, Bellman's Equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_1_v2))
+({{% resource_link 77727e6f-132a-fde1-0dbb-50d12613f518 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +52,7 @@ Existence and Uniqueness of Bellman's Equation Solution
 Gauss-Seidel Value Iteration
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_2_v1))
+({{% resource_link e8711c96-c560-b5b5-3764-6b95131fe3e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Policy Iteration
 Asynchronous Policy Iteration
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_3_v3))
+({{% resource_link fbd5a794-1a89-8177-6eb0-f5bd81308790 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +86,7 @@ Bellman's Equation
 Blackwell Optimality
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_4_v1))
+({{% resource_link 42e1a355-d7a7-4c79-abb0-bf9c959068e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ Average-Cost Problems
 Computational Methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_5_v1))
+({{% resource_link afcd934c-2ae9-e684-b68a-0022c692b9b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +114,7 @@ Application of Value Iteration to Optimization of Multiclass Queueing Networks
 Introduction to Simulation-based Methods Real-Time Value Iteration
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_6_v1))
+({{% resource_link e15b4728-f0c8-8f22-f4d5-1d6166a2fb37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +128,7 @@ Q-Learning
 Stochastic Approximations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_7_v1))
+({{% resource_link 712e86c6-5716-18f7-3c08-5f8da5a897cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +144,7 @@ The ODE Method
 Convergence of Q-Learning
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_8_v1))
+({{% resource_link dbd61bc2-1861-760c-0e7b-7a3fff4d6120 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +156,7 @@ Convergence of Q-Learning
 Exploration versus Exploitation: The Complexity of Reinforcement Learning
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_9_v1))
+({{% resource_link 6be403af-d3e9-dabd-97dc-6d869cc11d52 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +172,7 @@ Curse of Dimensionality
 Approximation Architectures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_10_v1))
+({{% resource_link 3154a1a3-93c8-70d0-128e-5a3e62579a8b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +184,7 @@ Approximation Architectures
 Model Selection and Complexity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_11_v1))
+({{% resource_link 2e76683e-f20d-0e9e-31a5-74a37400d38c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +198,7 @@ Introduction to Value Function Approximation Algorithms
 Performance Bounds
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_12_v11))
+({{% resource_link b068165d-1535-e8c4-0105-ef047b24d253 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -209,7 +210,7 @@ Performance Bounds
 Temporal-Difference Learning with Value Function Approximation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_13_v1))
+({{% resource_link 0269827b-2577-e18a-7e86-83b185c1737d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +222,7 @@ Temporal-Difference Learning with Value Function Approximation
 Temporal-Difference Learning with Value Function Approximation (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_14_v1))
+({{% resource_link 994ed38f-40bc-232a-3ce4-908e9fa070e9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +238,7 @@ Optimal Stopping Problems
 General Control Problems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_15_v1))
+({{% resource_link 69b2f97c-7cbe-11f7-f637-788eac36dbb5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +250,7 @@ General Control Problems
 Approximate Linear Programming
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_16_v1))
+({{% resource_link 5aae8384-2c21-491b-0574-e8d334ccec24 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +262,7 @@ Approximate Linear Programming
 Approximate Linear Programming (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_17_v1))
+({{% resource_link b8d8cfcd-de14-f221-80a9-0047a5d7f101 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +274,7 @@ Approximate Linear Programming (cont.)
 Efficient Solutions for Approximate Linear Programming
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_18_v1))
+({{% resource_link 6a22c321-105b-b6fc-c9e5-230781613a5b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +286,7 @@ Efficient Solutions for Approximate Linear Programming
 Efficient Solutions for Approximate Linear Programming: Factored MDPs
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_19_v1))
+({{% resource_link c578943c-b9b5-ba63-e397-6e01de52c61e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +298,7 @@ Efficient Solutions for Approximate Linear Programming: Factored MDPs
 Policy Search Methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_20_v1))
+({{% resource_link a14c2731-96b9-da94-3629-3adf3050f264 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,7 +310,7 @@ Policy Search Methods
 Policy Search Methods (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_21_v1))
+({{% resource_link 00c633f0-3396-bdde-03aa-31a35491abcb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
