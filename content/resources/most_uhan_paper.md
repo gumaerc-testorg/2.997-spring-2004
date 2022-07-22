@@ -5,6 +5,7 @@ file: /courses/2-997-decision-making-in-large-scale-systems-spring-2004/cfd58645
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: most_uhan_paper.pdf
 uid: cfd58645-05f1-a8ad-5eb0-b7d19dbd50f6
 ---
 A sample student project.
-

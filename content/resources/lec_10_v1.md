@@ -5,6 +5,7 @@ file: /courses/2-997-decision-making-in-large-scale-systems-spring-2004/3154a1a3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec_10_v1.pdf
 uid: 3154a1a3-93c8-70d0-128e-5a3e62579a8b
 ---
 Lecture notes.
-

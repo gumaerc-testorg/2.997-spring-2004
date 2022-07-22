@@ -5,6 +5,7 @@ file: /courses/2-997-decision-making-in-large-scale-systems-spring-2004/13866634
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: most_uhan_slides.pdf
 uid: 13866634-7f68-1dfe-07a4-4ff769fbc6a6
 ---
 Slide presentation from a sample student project.
-
