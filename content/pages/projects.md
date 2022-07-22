@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 2a6e386d-d2d6-45de-3e3f-5ecb931d52e4
 ---
@@ -34,9 +38,9 @@ Mohamed Mostagir
 Nelson Uhan
 {{< tdclose >}}
 {{< tdopen >}}
-Paper ([PDF]({{< baseurl >}}/resources/most_uhan_paper)) (Courtesy of Mohamed Mostagir and Nelson Uhan. Used with permission.)  
+Paper ({{% resource_link cfd58645-05f1-a8ad-5eb0-b7d19dbd50f6 "PDF" %}}) (Courtesy of Mohamed Mostagir and Nelson Uhan. Used with permission.)  
   
-Slides ([PDF]({{< baseurl >}}/resources/most_uhan_slides)) (Courtesy of Mohamed Mostagir and Nelson Uhan. Used with permission.)
+Slides ({{% resource_link 13866634-7f68-1dfe-07a4-4ff769fbc6a6 "PDF" %}}) (Courtesy of Mohamed Mostagir and Nelson Uhan. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,9 +54,9 @@ Yann Le Tallec
 Theophane Weber
 {{< tdclose >}}
 {{< tdopen >}}
-Paper ([PDF]({{< baseurl >}}/resources/web_let_cho_pap)) (Courtesy of Yann Le-Tallec and Theophane Weber. Used with permission.)  
+Paper ({{% resource_link 902e0878-051d-1394-5975-6a168fdf4d9a "PDF" %}}) (Courtesy of Yann Le-Tallec and Theophane Weber. Used with permission.)  
   
-Slides ([PDF]({{< baseurl >}}/resources/web_let_cho_sli)) (Courtesy of Yann Le-Tallec and Theophane Weber. Used with permission.)
+Slides ({{% resource_link 2ce0f53e-1d5a-5b3f-99c7-f170ae5361dc "PDF" %}}) (Courtesy of Yann Le-Tallec and Theophane Weber. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +68,7 @@ Decentralized Strategies for the Assignment Problem
 Hariharan Lakshmanan
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF]({{< baseurl >}}/resources/hari_decent_mov)) (Courtesy of Hariharan Lakshamanan. Used with permission.)
+Slides ({{% resource_link b85c0c66-79de-e98a-33e5-30380e92d612 "PDF" %}}) (Courtesy of Hariharan Lakshamanan. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
