@@ -49,8 +49,10 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Projects with Examples"
+    "Projects with Examples",
+    "Problem Sets"
   ],
-  "site_uid": "73c6f8e1-a90c-4437-9010-8cd232c0cd62",
+  "site_uid": "827704e9-5fe2-4d3a-a48d-f335960eb914",
+  "short_id": "2.997-spring-2004",
   "title": "Course Metadata"
 }
