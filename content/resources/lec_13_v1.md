@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes.
 file: /courses/2-997-decision-making-in-large-scale-systems-spring-2004/0269827b2577e18a7e8683b185c1737d_lec_13_v1.pdf
+file_size: 225147
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

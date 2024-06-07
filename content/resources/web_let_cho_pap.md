@@ -2,6 +2,7 @@
 content_type: resource
 description: A sample student project.
 file: /courses/2-997-decision-making-in-large-scale-systems-spring-2004/902e0878051d139459756a168fdf4d9a_web_let_cho_pap.pdf
+file_size: 226989
 file_type: application/pdf
 learning_resource_types:
 - Projects
