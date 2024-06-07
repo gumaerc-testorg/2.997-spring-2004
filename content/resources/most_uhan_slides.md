@@ -2,6 +2,7 @@
 content_type: resource
 description: Slide presentation from a sample student project.
 file: /courses/2-997-decision-making-in-large-scale-systems-spring-2004/138666347f681dfe07a44ff769fbc6a6_most_uhan_slides.pdf
+file_size: 126851
 file_type: application/pdf
 learning_resource_types:
 - Projects
