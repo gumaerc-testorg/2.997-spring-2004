@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-997-decision-making-in-large-scale-systems-spring-2004/1d0bbfb96c884828c39f5cea5c16daf8_baxter01b.pdf
+file_size: 386998
 file_type: application/pdf
 learning_resource_types:
 - Readings

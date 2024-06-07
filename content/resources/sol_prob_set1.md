@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-997-decision-making-in-large-scale-systems-spring-2004/d7bb254ad8918f014fbabd6b140dd157_sol_prob_set1.pdf
+file_size: 189286
 file_type: application/pdf
 learning_resource_types:
 - Assignments
