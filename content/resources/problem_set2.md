@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/2-997-decision-making-in-large-scale-systems-spring-2004/c98e793cdafac79926c33f8c472344ab_problem_set2.pdf
+file: /ol-ocw-studio-app/courses/2-997-decision-making-in-large-scale-systems-spring-2004/c98e793cdafac79926c33f8c472344ab_problem_set2.pdf
 file_size: 102803
 file_type: application/pdf
 learning_resource_types:

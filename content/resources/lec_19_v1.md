@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes.
-file: /courses/2-997-decision-making-in-large-scale-systems-spring-2004/c578943cb9b5ba63e3976e01de52c61e_lec_19_v1.pdf
+file: /ol-ocw-studio-app/courses/2-997-decision-making-in-large-scale-systems-spring-2004/c578943cb9b5ba63e3976e01de52c61e_lec_19_v1.pdf
 file_size: 170225
 file_type: application/pdf
 learning_resource_types:
