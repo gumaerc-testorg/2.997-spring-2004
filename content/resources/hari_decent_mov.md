@@ -2,7 +2,7 @@
 content_type: resource
 description: Slide presentation giving suggested methods and strategies for solving
   an assigned problem.
-file: /ol-ocw-studio-app/courses/2-997-decision-making-in-large-scale-systems-spring-2004/b85c0c6679dee98a33e530380e92d612_hari_decent_mov.pdf
+file: /courses/2-997-decision-making-in-large-scale-systems-spring-2004/b85c0c6679dee98a33e530380e92d612_hari_decent_mov.pdf
 file_size: 474668
 file_type: application/pdf
 learning_resource_types:
