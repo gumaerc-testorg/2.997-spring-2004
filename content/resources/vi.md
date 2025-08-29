@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-997-decision-making-in-large-scale-systems-spring-2004/6c2856b26fa03c733089deca7830dcc8_vi.pdf
+file: /ol-ocw-studio-app/courses/2-997-decision-making-in-large-scale-systems-spring-2004/6c2856b26fa03c733089deca7830dcc8_vi.pdf
 file_size: 551941
 file_type: application/pdf
 learning_resource_types:
