@@ -96,7 +96,7 @@ Introduction to Simulation-based Methods Real-Time Value Iteration
 
 {{< tdclose >}}{{< tdopen >}}
 
-Chen, R. R., and S. P. Meyn. "[Value Iteration and Optimization of Multiclass Queueing Networks](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.42.8423)."*Queueing Systems* 32 (1999): 65-97.
+Chen, R. R., and S. P. Meyn. "{{% resource_link "b59f9e8c-02fd-4ceb-ac52-70b00cd7f52b" "Value Iteration and Optimization of Multiclass Queueing Networks" %}}."*Queueing Systems* 32 (1999): 65-97.
 
 Bertsekas and Tsitsiklis, Chapter 5.
 
@@ -127,7 +127,7 @@ Bertsekas and Tsitsiklis, Chapters 4 and 5.
 {{< tdclose >}}{{< tdopen >}}
 Exploration versus Exploitation: The Complexity of Reinforcement Learning
 {{< tdclose >}}{{< tdopen >}}
-Kearns, M. , and S. Singh. "[Near-Optional Reinforcement Learning in Polynomial Time](http://www.cis.upenn.edu/~mkearns/papers/reinforcement.pdf)." *Machine Learning* 49, no. 2 (Nov 2002): 209-232.
+Kearns, M. , and S. Singh. "{{% resource_link "7ddd77a9-1ed0-4651-abd6-03771ae133a5" "Near-Optional Reinforcement Learning in Polynomial Time" %}}." *Machine Learning* 49, no. 2 (Nov 2002): 209-232.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
@@ -170,7 +170,7 @@ Temporal-Difference Learning with Value Function Approximation (cont.)
 
 Bertsekas and Tsitsiklis, Chapter 6.
 
-de Farias, D. P., and B. Van Roy. "[On the Existence of Fixed Points for Approximate Value Iteration and Temporal-Difference Learning](http://dx.doi.org/10.1023/A:1004641123405)."
+de Farias, D. P., and B. Van Roy. "{{% resource_link "8db27685-c343-431c-9ab1-122682ae2aca" "On the Existence of Fixed Points for Approximate Value Iteration and Temporal-Difference Learning" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -186,31 +186,31 @@ General Control Problems
 
 Bertsekas and Tsitsiklis, Chapter 6.
 
-de Farias, D. P., and B. Van Roy. "[On the Existence of Fixed Points for Approximate Value Iteration and Temporal-Difference Learning](http://dx.doi.org/10.1023/A:1004641123405)."
+de Farias, D. P., and B. Van Roy. "{{% resource_link "8db27685-c343-431c-9ab1-122682ae2aca" "On the Existence of Fixed Points for Approximate Value Iteration and Temporal-Difference Learning" %}}."
 
-Bertsekas, Borkar, and Nedic. "[Improved temporal Difference Methods with Linear Function Approximation](http://onlinelibrary.wiley.com/doi/10.1002/9780470544785.ch9/summary)."
+Bertsekas, Borkar, and Nedic. "{{% resource_link "31eae135-ded3-4ff9-9405-bbfe087eabb9" "Improved temporal Difference Methods with Linear Function Approximation" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
 Approximate Linear Programming
 {{< tdclose >}}{{< tdopen >}}
-de Farias, D. P., and B. Van Roy. "[The Linear Programming Approach to Approximate Dynamic Programming](http://www.mit.edu/~pucci/discountedLP.pdf)."
+de Farias, D. P., and B. Van Roy. "{{% resource_link "5b344dfd-81be-45f4-80e6-d9033b834e9f" "The Linear Programming Approach to Approximate Dynamic Programming" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
 Approximate Linear Programming (cont.)
 {{< tdclose >}}{{< tdopen >}}
-de Farias, D. P., and B. Van Roy. "[The Linear Programming Approach to Approximate Dynamic Programming](http://www.mit.edu/~pucci/discountedLP.pdf)."
+de Farias, D. P., and B. Van Roy. "{{% resource_link "5b344dfd-81be-45f4-80e6-d9033b834e9f" "The Linear Programming Approach to Approximate Dynamic Programming" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
 Efficient Solutions for Approximate Linear Programming
 {{< tdclose >}}{{< tdopen >}}
 
-de Farias D. P., and B. Van Roy. "[On Constraint Sampling in the Linear Programming Approach to Approximate Dynamic Programming](http://www.mit.edu/~pucci/sampling.pdf)."
+de Farias D. P., and B. Van Roy. "{{% resource_link "5f2290a3-668e-4b56-8f58-07387bf07152" "On Constraint Sampling in the Linear Programming Approach to Approximate Dynamic Programming" %}}."
 
-Calafiori, and Campi. "[Uncertain Convex Programs: Randomized Solutions and Confidence Levels](https://link.springer.com/article/10.1007/s10107-003-0499-y)."
+Calafiori, and Campi. "{{% resource_link "8fe6eb98-bf03-469b-8c4b-fc7cda26a0ed" "Uncertain Convex Programs: Randomized Solutions and Confidence Levels" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -218,22 +218,22 @@ Calafiori, and Campi. "[Uncertain Convex Programs: Randomized Solutions and Conf
 Efficient Solutions for Approximate Linear Programming: Factored MDPs
 {{< tdclose >}}{{< tdopen >}}
 
-Guestrin, et al. "[Efficient Solution Algorithms for Factored MDPs](http://www-2.cs.cmu.edu/afs/cs/project/jair/pub/volume19/guestrin03a.pdf)."
+Guestrin, et al. "{{% resource_link "d171be9c-2bb1-4e05-b99b-17cfe00561b9" "Efficient Solution Algorithms for Factored MDPs" %}}."
 
-Schuurmans, and Patrascu. "[Direct Value Approximation for Factored MDPs](http://citeseer.ist.psu.edu/schuurmans01direct.html)."
+Schuurmans, and Patrascu. "{{% resource_link "c7918fc1-f384-4b64-a982-7d002d37c3ac" "Direct Value Approximation for Factored MDPs" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
 Policy Search Methods
 {{< tdclose >}}{{< tdopen >}}
-Marbach, and Tsitsiklis. "Simulation-Based Optimization of Markov Reward Processes." ([PDF](http://www.mit.edu/~jnt/Papers/J083-01-mar-MDP.pdf))
+Marbach, and Tsitsiklis. "Simulation-Based Optimization of Markov Reward Processes." ({{% resource_link "965e543f-dbd2-417f-8456-305724366016" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
 Policy Search Methods (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Baxter, and Bartlett. "[Infinite-Horizon Policy-Gradient Estimation](http://www-2.cs.cmu.edu/afs/cs/project/jair/pub/volume15/baxter01a.pdf)."
+Baxter, and Bartlett. "{{% resource_link "608086f8-de69-42c6-a070-5f611b5965b5" "Infinite-Horizon Policy-Gradient Estimation" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
@@ -246,11 +246,11 @@ Actor-Critic Methods
 
 {{< tdclose >}}{{< tdopen >}}
 
-Baxter, and Bartlett. "[Infinite-Horizon Policy-Gradient Estimation](http://www-2.cs.cmu.edu/afs/cs/project/jair/pub/volume15/baxter01a.pdf)."
+Baxter, and Bartlett. "{{% resource_link "608086f8-de69-42c6-a070-5f611b5965b5" "Infinite-Horizon Policy-Gradient Estimation" %}}."
 
-Baxter, and Bartlett. "[Experiments with Infinite-Horizon Policy-Gradient Estimation](http://www-2.cs.cmu.edu/afs/cs/project/jair/pub/volume15/baxter01b.pdf)."
+Baxter, and Bartlett. "{{% resource_link "c241a933-703e-4281-a04a-9939c0bebc26" "Experiments with Infinite-Horizon Policy-Gradient Estimation" %}}."
 
-Konda, and Tsitsiklis. "Actor-Critic Algorithms." ([PDF](http://www.mit.edu/~jnt/Papers/J094-03-kon-actors.pdf))
+Konda, and Tsitsiklis. "Actor-Critic Algorithms." ({{% resource_link "8c899ce5-cb3c-41cc-b6ff-a524641ad0d7" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -261,7 +261,7 @@ Guest Lecture: Prof. Nick Roy
 Approximate POMDP Compression
 
 {{< tdclose >}}{{< tdopen >}}
-Roy, and Gordon. "[Exponential Family PCA for Belief Compression in POMDPs](http://web.mit.edu/nickroy/www/papers/nips02.pdf)."
+Roy, and Gordon. "{{% resource_link "2d08de83-ea03-4f9c-8e33-eb29f778c267" "Exponential Family PCA for Belief Compression in POMDPs" %}}."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
@@ -272,16 +272,16 @@ Application: Helicopter Control
 
 {{< tdclose >}}{{< tdopen >}}
 
-Ng, and Jordan. "[PEGASUS: A policy search method for large MDPs and POMDPs](http://www.robotics.stanford.edu/~ang/papers/uai00-pegasus.pdf)."
+Ng, and Jordan. "{{% resource_link "6a0fc869-64f0-4f68-bb0b-178876a2cbfb" "PEGASUS: A policy search method for large MDPs and POMDPs" %}}."
 
-Ng, et al. "[Autonomous Helicopter Flight via Reinforcement Learning](http://books.nips.cc/papers/files/nips16/NIPS2003_CN07.pdf)."
+Ng, et al. "{{% resource_link "30ffcb08-b9f5-4c72-b9b7-5f90b2ee3bbb" "Autonomous Helicopter Flight via Reinforcement Learning" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Complementary Reading
 
-Even-Dar, and Mansour. "[Learning Rates for Q-Learning](http://dl.acm.org/citation.cfm?id=1005333).'' *Journal of Machine Learning Research* 5 (2003): 1-25.
+Even-Dar, and Mansour. "{{% resource_link "84826a08-1fda-4f76-ace7-58e7f973a231" "Learning Rates for Q-Learning" %}}.'' *Journal of Machine Learning Research* 5 (2003): 1-25.
 
 Barron. "Universal approximation bounds for superpositions of a sigmoidal function." *IEEE Transactions on Information Theory* 39 (1993): 930-944.
 
-Tesauro. "[Temporal-Difference Learning and TD-Gammon](https://dx.doi.org/10.1145/203330.203343)'' *Communications of the ACM* 38, no. 3 (1995).
+Tesauro. "{{% resource_link "72e3ff44-f00b-4f95-bf3d-5a7ad42b63c5" "Temporal-Difference Learning and TD-Gammon" %}}'' *Communications of the ACM* 38, no. 3 (1995).
